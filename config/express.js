@@ -1,3 +1,10 @@
+/* 
+    File: express.js
+    Author: Wendall Hsu 300739743
+    Website: Wendall Hsu's Portfolio
+    Description: Renders each view (web page)
+*/
+
 var express = require('express');
 module.exports = function() {
     var app = express();
